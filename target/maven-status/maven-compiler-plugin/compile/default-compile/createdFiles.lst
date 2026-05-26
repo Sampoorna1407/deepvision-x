@@ -1,0 +1,10 @@
+com\aidetector\model\DetectionResult$DetectionResultBuilder.class
+com\aidetector\service\VideoDetectionService.class
+com\aidetector\model\DetectionResult$Verdict.class
+com\AiDetectorApplication.class
+com\aidetector\model\TextDetectionRequest.class
+com\aidetector\service\VideoDetectionService$1.class
+com\aidetector\model\DetectionResult$ContentType.class
+com\aidetector\model\DetectionResult.class
+com\aidetector\config\AppConfig.class
+com\aidetector\controller\DetectionController.class
